@@ -1,3 +1,4 @@
 git log
 git checkout
+it's a normal day of my life
 
